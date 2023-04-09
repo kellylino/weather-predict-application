@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">2023 SÄÄENNUSTE</string>
+    <string name="back">TAKAISIN</string>
+    <string name="Refresh">VIRKISTÄÄ</string>
+    <string name="Finland">SUOMI</string>
+    <string name="Sunny">AURINKOINEN</string>
+    <string name="forecast">ENNUSTE VERKKOSIVU</string>
+    <string name="secondActivity">TOINEN TOIMINTA</string>
+    <string name="LOCATION_NOT_KNOW">SIJAINTI EI TIETOA</string>
+    <string name="ERROR_OCCUR">VIRHE</string>
+    <string name="Oops">OHO</string>
+    <string name="NO_VALUE">EI ARVOA</string>
+</resources>

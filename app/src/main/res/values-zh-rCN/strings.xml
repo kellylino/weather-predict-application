@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">2023天气预报</string>
+    <string name="back">返回主页</string>
+    <string name="Refresh">刷新</string>
+    <string name="Finland">芬兰</string>
+    <string name="Sunny">晴天</string>
+    <string name="forecast">天气预报网站</string>
+    <string name="secondActivity">第二屏幕</string>
+    <string name="LOCATION_NOT_KNOW">地址未知</string>
+    <string name="ERROR_OCCUR">错误</string>
+    <string name="Oops">糟糕！</string>
+    <string name="NO_VALUE">无值</string>
+</resources>

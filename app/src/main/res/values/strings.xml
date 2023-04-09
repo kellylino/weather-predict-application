@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">weatherPredictApplication2023</string>
+    <string name="back">BACK</string>
+    <string name="Refresh">REFRESH</string>
+    <string name="Finland">FINLAND</string>
+    <string name="Sunny">SUNNY</string>
+    <string name="forecast">FORECAST WEBSITE</string>
+    <string name="secondActivity">SECOND ACTIVITY</string>
+    <string name="LOCATION_NOT_KNOW">LOCATION NOT KNOW</string>
+    <string name="ERROR_OCCUR">ERROR</string>
+    <string name="Oops">Oops!</string>
+    <string name="NO_VALUE">NO VALUE</string>
+</resources>
+
